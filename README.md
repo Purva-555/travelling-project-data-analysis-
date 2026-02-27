@@ -120,5 +120,4 @@ Raw Data
 Pivot Tables
 
 
-Computer Science Student
-Interesten Data Analytics & Software Development
+
