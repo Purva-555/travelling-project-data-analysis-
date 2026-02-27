@@ -119,10 +119,6 @@ Raw Data
 
 Pivot Tables
 
-Dashboard
 
-
-
-Purva Mhatre
 Computer Science Student
-Interested in Data Analytics & Software Development
+Interesten Data Analytics & Software Development
